@@ -14,6 +14,9 @@ export default function Nav() {
         <li>
             <Link to="/RouterPropTest"> Router Prop Test</Link>
         </li>
+        <li>
+            <Link to="/StudentList"> Student List</Link>
+        </li>
       </ul>
     </>
   );
